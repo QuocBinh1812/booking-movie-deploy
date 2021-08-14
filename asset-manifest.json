@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/booking-movie-deploy/static/css/main.5739ad41.chunk.css",
+    "main.js": "/booking-movie-deploy/static/js/main.49bba2a3.chunk.js",
+    "main.js.map": "/booking-movie-deploy/static/js/main.49bba2a3.chunk.js.map",
+    "runtime-main.js": "/booking-movie-deploy/static/js/runtime-main.db1cf532.js",
+    "runtime-main.js.map": "/booking-movie-deploy/static/js/runtime-main.db1cf532.js.map",
+    "static/js/2.0bc0c4e8.chunk.js": "/booking-movie-deploy/static/js/2.0bc0c4e8.chunk.js",
+    "static/js/2.0bc0c4e8.chunk.js.map": "/booking-movie-deploy/static/js/2.0bc0c4e8.chunk.js.map",
+    "static/js/3.0c31a8db.chunk.js": "/booking-movie-deploy/static/js/3.0c31a8db.chunk.js",
+    "static/js/3.0c31a8db.chunk.js.map": "/booking-movie-deploy/static/js/3.0c31a8db.chunk.js.map",
+    "index.html": "/booking-movie-deploy/index.html",
+    "static/css/main.5739ad41.chunk.css.map": "/booking-movie-deploy/static/css/main.5739ad41.chunk.css.map",
+    "static/js/2.0bc0c4e8.chunk.js.LICENSE.txt": "/booking-movie-deploy/static/js/2.0bc0c4e8.chunk.js.LICENSE.txt",
+    "static/media/logo.2d27ead7.svg": "/booking-movie-deploy/static/media/logo.2d27ead7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db1cf532.js",
+    "static/js/2.0bc0c4e8.chunk.js",
+    "static/css/main.5739ad41.chunk.css",
+    "static/js/main.49bba2a3.chunk.js"
+  ]
+}
